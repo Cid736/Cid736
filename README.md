@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cv-bot-s7ex.onrender.com">
+  <a href="https://cv-bot-hxku.onrender.com">
     <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20con%20mi%20CV%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
   </a>
 </p>
