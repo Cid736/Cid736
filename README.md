@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://cv-bot.onrender.com">
-    <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20sobre%20%mi%20E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
+    <img src="https://img.shields.io/badge/CV%20Assistant-Chat%20with%20my%20CV%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
   </a>
 </p>
 
