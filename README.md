@@ -58,6 +58,7 @@
 | [rag-chatbot](https://github.com/Cid736/rag-chatbot) | Chatbot RAG con Groq LLM y embeddings locales, sin GPU | Python · LangChain · ChromaDB |
 | [task-api](https://github.com/Cid736/task-api) | REST API de tareas con JWT, tests automáticos y CI/CD con Docker | Node.js · Express · GitHub Actions |
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial y alertas | Python · BeautifulSoup · SQLite |
+| [dental-bot](https://github.com/Cid736/dental-bot) | SaaS chatbot para clínicas dentales — responde consultas de pacientes 24/7 | Python · FastAPI · Docker |
 
 ---
 
