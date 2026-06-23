@@ -5,10 +5,6 @@
   Apasionado por el código limpio, la observabilidad y las redes que simplemente <em>funcionan</em>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cid736&style=flat&color=7c5cbf" alt="profile views"/>
-</p>
-
 ---
 
 ## Stack
