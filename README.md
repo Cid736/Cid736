@@ -1,4 +1,3 @@
-<h1 align="center">Eric C.</h1>
 <h3 align="center">Cloud & DevOps · IA & Automatización · Sistemas & Redes</h3>
 
 <p align="center">
