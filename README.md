@@ -1,8 +1,19 @@
+<h1 align="center">Eric C.</h1>
 <h3 align="center">Cloud & DevOps · IA & Automatización · Sistemas & Redes</h3>
 
 <p align="center">
   Automatizo infraestructura, construyo agentes IA y diseño sistemas que escalan.<br>
   Apasionado por el código limpio, la observabilidad y las redes que simplemente <em>funcionan</em>.
+</p>
+
+<p align="center">
+  <a href="https://cv-bot.onrender.com">
+    <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20conmigo%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cid736&style=flat&color=7c5cbf" alt="profile views"/>
 </p>
 
 ---
@@ -45,7 +56,6 @@
 |----------|-------------|-------|
 | [smart-notes](https://github.com/Cid736/smart-notes) | App de notas tipo Obsidian — WikiLinks, grafo de conexiones, IA local | Node.js · SQLite · marked.js |
 | [rag-chatbot](https://github.com/Cid736/rag-chatbot) | Chatbot RAG con Groq LLM y embeddings locales, sin GPU | Python · LangChain · ChromaDB |
-| [cv-bot](https://github.com/Cid736/cv-bot) | Asistente web que responde preguntas sobre mi perfil profesional | Python · Flask · LangChain |
 | [task-api](https://github.com/Cid736/task-api) | REST API de tareas con JWT, tests automáticos y CI/CD con Docker | Node.js · Express · GitHub Actions |
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial y alertas | Python · BeautifulSoup · SQLite |
 
@@ -54,5 +64,6 @@
 ## Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cid736&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cid736&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
