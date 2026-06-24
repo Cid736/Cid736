@@ -1,4 +1,3 @@
-<h1 align="center">Eric C.</h1>
 <h3 align="center">Sistemas & Redes · Cloud & DevOps · Automatización</h3>
 
 <p align="center">
@@ -10,10 +9,6 @@
   <a href="https://cv-bot-hxku.onrender.com">
     <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20con%20mi%20CV%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cid736&style=flat&color=7c5cbf" alt="profile views"/>
 </p>
 
 ---
@@ -54,17 +49,10 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
+| [net-monitor](https://github.com/Cid736/net-monitor) | Monitor de disponibilidad de red — ping, puertos TCP y endpoints HTTP con alertas Telegram | Python · socket · SQLite |
+| [syswatch](https://github.com/Cid736/syswatch) | Monitor de recursos del servidor — CPU, RAM, disco y carga con umbrales configurables | Python · psutil · Telegram |
 | [medical-bot](https://github.com/Cid736/medical-bot) | SaaS chatbot para clínicas médicas — responde consultas de pacientes 24/7 | Python · FastAPI · Docker |
 | [task-api](https://github.com/Cid736/task-api) | REST API de tareas con JWT, 18 tests automáticos y CI/CD con Docker | Node.js · Express · GitHub Actions |
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial y alertas | Python · BeautifulSoup · SQLite |
 | [rag-chatbot](https://github.com/Cid736/rag-chatbot) | Chatbot RAG con Groq LLM y embeddings locales, sin GPU | Python · LangChain · ChromaDB |
 | [smart-notes](https://github.com/Cid736/smart-notes) | App de notas tipo Obsidian — WikiLinks, grafo de conexiones, IA local | Node.js · SQLite · marked.js |
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cid736&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cid736&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-</p>
