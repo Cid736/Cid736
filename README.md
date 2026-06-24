@@ -24,8 +24,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C99?style=flat&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-333333?style=flat&logo=wireguard&logoColor=white)
 ![MS Intune](https://img.shields.io/badge/MS_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 **Cloud & DevOps**
