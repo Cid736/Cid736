@@ -1,13 +1,18 @@
-<h3 align="center">Sistemas & Redes · Cloud & DevOps · Automatización</h3>
+<h2 align="center">Eric C.</h2>
+<h4 align="center">Sistemas & Redes · Cloud & DevOps · Automatización</h4>
 
 <p align="center">
-  Técnico de sistemas con base en Linux, Windows Server, redes y contenedores.<br>
-  Me gusta entender cada capa del sistema — desde la red hasta el despliegue en producción.
+  Técnico de sistemas especializado en infraestructura Linux/Windows, redes y contenedores.<br>
+  Enfocado en automatización, DevOps y despliegue en cloud — de la red al entorno de producción.
 </p>
 
 <p align="center">
   <a href="https://cv-bot-hxku.onrender.com">
     <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20con%20mi%20CV%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Cid736?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver%20todos%20%E2%86%92-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
   </a>
 </p>
 
@@ -48,11 +53,18 @@
 ## Proyectos
 
 | Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [net-monitor](https://github.com/Cid736/net-monitor) | Monitor de disponibilidad de red — ping, puertos TCP y endpoints HTTP con alertas Telegram | Python · socket · SQLite |
-| [syswatch](https://github.com/Cid736/syswatch) | Monitor de recursos del servidor — CPU, RAM, disco y carga con umbrales configurables | Python · psutil · Telegram |
-| [medical-bot](https://github.com/Cid736/medical-bot) | SaaS chatbot para clínicas médicas — responde consultas de pacientes 24/7 | Python · FastAPI · Docker |
-| [task-api](https://github.com/Cid736/task-api) | REST API de tareas con JWT, 18 tests automáticos y CI/CD con Docker | Node.js · Express · GitHub Actions |
-| [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial y alertas | Python · BeautifulSoup · SQLite |
-| [rag-chatbot](https://github.com/Cid736/rag-chatbot) | Chatbot RAG con Groq LLM y embeddings locales, sin GPU | Python · LangChain · ChromaDB |
-| [smart-notes](https://github.com/Cid736/smart-notes) | App de notas tipo Obsidian — WikiLinks, grafo de conexiones, IA local | Node.js · SQLite · marked.js |
+|---|---|---|
+| [cv-bot](https://github.com/Cid736/cv-bot) | Asistente conversacional de CV desplegado en producción — responde preguntas sobre mi perfil en español e inglés | Python · Flask · Groq LLM |
+| [medical-bot](https://github.com/Cid736/medical-bot) | Chatbot SaaS para clínicas médicas — captura leads, gestiona citas y responde consultas 24/7 | Node.js · Express · SQLite |
+| [task-api](https://github.com/Cid736/task-api) | REST API de gestión de tareas con autenticación JWT, 18 tests automáticos y pipeline CI/CD | Node.js · Express · GitHub Actions |
+| [rag-chatbot](https://github.com/Cid736/rag-chatbot) | Chatbot RAG con embeddings locales y Groq LLM — sin GPU, sin coste de infraestructura | Python · LangChain · ChromaDB |
+| [smart-notes](https://github.com/Cid736/smart-notes) | Aplicación de notas con WikiLinks, grafo de conexiones y asistente IA integrado | Node.js · SQLite · marked.js |
+| [net-monitor](https://github.com/Cid736/net-monitor) | Monitor de disponibilidad de red — ping, puertos TCP y endpoints HTTP con alertas Telegram | Python · SQLite |
+| [syswatch](https://github.com/Cid736/syswatch) | Monitor de recursos del servidor — CPU, RAM, disco y carga con umbrales configurables | Python · psutil |
+| [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial en base de datos y alertas configurables | Python · BeautifulSoup · SQLite |
+
+---
+
+<p align="center">
+  <sub>github.com/Cid736</sub>
+</p>
