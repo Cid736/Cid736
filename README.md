@@ -1,3 +1,4 @@
+<h1 align="center">Eric C.</h1>
 <h3 align="center">Sistemas & Redes · Cloud & DevOps · Automatización</h3>
 
 <p align="center">
@@ -9,6 +10,10 @@
   <a href="https://cv-bot-hxku.onrender.com">
     <img src="https://img.shields.io/badge/CV%20Assistant-Habla%20con%20mi%20CV%20%E2%86%92-7c5cbf?style=for-the-badge&logoColor=white" alt="CV Assistant"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cid736&style=flat&color=7c5cbf" alt="profile views"/>
 </p>
 
 ---
@@ -60,5 +65,6 @@
 ## Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cid736&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cid736&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
