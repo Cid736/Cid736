@@ -70,6 +70,8 @@
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI to track web prices with database history and configurable alerts | Python · BeautifulSoup · SQLite |
 | [tubegrab](https://github.com/Cid736/tubegrab) | Local YouTube downloader — MP4 up to 1080p and MP3 up to 320 kbps, fully private with no external servers | Node.js · Express · yt-dlp |
 | [portscanner](https://github.com/Cid736/portscanner) | TCP port scanner for Windows — open/closed/filtered states, banner grabbing, nmap-style output | C · Winsock2 |
+| [wintoys](https://github.com/Cid736/wintoys) | Windows system management TUI — privacy, performance, cleanup, bloatware removal, services and network | PowerShell |
+| [lintoys](https://github.com/Cid736/lintoys) | Linux system management TUI — privacy, performance, cleanup, packages, services and network | Bash |
 
 ---
 
@@ -139,6 +141,8 @@
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial en base de datos y alertas configurables | Python · BeautifulSoup · SQLite |
 | [tubegrab](https://github.com/Cid736/tubegrab) | Descargador local de YouTube — MP4 hasta 1080p y MP3 hasta 320 kbps, totalmente privado sin servidores externos | Node.js · Express · yt-dlp |
 | [portscanner](https://github.com/Cid736/portscanner) | Escáner de puertos TCP para Windows — estados open/closed/filtered, banner grabbing, salida estilo nmap | C · Winsock2 |
+| [wintoys](https://github.com/Cid736/wintoys) | TUI de administración del sistema Windows — privacidad, rendimiento, limpieza, bloatware, servicios y red | PowerShell |
+| [lintoys](https://github.com/Cid736/lintoys) | TUI de administración del sistema Linux — privacidad, rendimiento, limpieza, paquetes, servicios y red | Bash |
 
 ---
 
