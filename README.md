@@ -47,6 +47,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Applied AI**
 
@@ -66,6 +67,7 @@
 | [net-monitor](https://github.com/Cid736/net-monitor) | Network availability monitor — ping, TCP ports and HTTP endpoints with Telegram alerts | Python · SQLite |
 | [syswatch](https://github.com/Cid736/syswatch) | Server resource monitor — CPU, RAM, disk and load with configurable thresholds | Python · psutil |
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI to track web prices with database history and configurable alerts | Python · BeautifulSoup · SQLite |
+| [tubegrab](https://github.com/Cid736/tubegrab) | Local YouTube downloader — MP4 up to 1080p and MP3 up to 320 kbps, fully private with no external servers | Node.js · Express · yt-dlp |
 
 ---
 
@@ -112,6 +114,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **IA Aplicada**
 
@@ -131,6 +134,7 @@
 | [net-monitor](https://github.com/Cid736/net-monitor) | Monitor de disponibilidad de red — ping, puertos TCP y endpoints HTTP con alertas Telegram | Python · SQLite |
 | [syswatch](https://github.com/Cid736/syswatch) | Monitor de recursos del servidor — CPU, RAM, disco y carga con umbrales configurables | Python · psutil |
 | [price-tracker](https://github.com/Cid736/price-tracker) | CLI para rastrear precios web con historial en base de datos y alertas configurables | Python · BeautifulSoup · SQLite |
+| [tubegrab](https://github.com/Cid736/tubegrab) | Descargador local de YouTube — MP4 hasta 1080p y MP3 hasta 320 kbps, totalmente privado sin servidores externos | Node.js · Express · yt-dlp |
 
 ---
 
